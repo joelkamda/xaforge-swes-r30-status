@@ -1,0 +1,33 @@
+{
+  "payload": {
+    "created_at": "2026-11-01T09:56:10+00:00",
+    "entries": [
+      {
+        "key_id": "swes-r30-owner-e27324696fd48eda",
+        "public_key_base64url": "tqZepvNClHjD0PVlrMUpoM3_L45dudleIRMmlaHqzsg",
+        "public_key_sha256": "e27324696fd48eda92edb6dbca95bc5719aa797063530eb179a9c811071c9d42",
+        "purpose": "owner",
+        "status": "candidate"
+      },
+      {
+        "key_id": "swes-r30-release-236bca5665eaf41f",
+        "public_key_base64url": "WDd28w4dTaJ75XSVjuN7K5wNNzt89uHcJsDM0Feww8k",
+        "public_key_sha256": "236bca5665eaf41fd63d148f6a5482696a94ae96c8bc5926111c9d0f243076b3",
+        "purpose": "release",
+        "status": "candidate"
+      },
+      {
+        "key_id": "swes-r30-registry-2eb227427d456b0d",
+        "public_key_base64url": "220duTk2ktoM4Vvjc9YOniDYei74h5_F5_ENx-eIlI4",
+        "public_key_sha256": "2eb227427d456b0dd28367688f5ec6cf4387f9bd49f89df981209e97cdab9790",
+        "purpose": "registry",
+        "status": "candidate"
+      }
+    ],
+    "epoch": 0,
+    "expires_at": "2026-11-01T09:59:10+00:00",
+    "schema": "SWES_R30_SIGNED_STATUS_TEST_V1",
+    "scope": "TEST_ONLY_LOCAL_SYNTHETIC_NO_HOSTED_ADMISSION"
+  },
+  "signature_base64url": "2V55lXNTEqpHjZ_Nu6PupW3teIZPuxqUdByTYGxivEC-7duDMmrOBUW_04uD-EKjCdcJVdWvCgTZ3spEUKHLBw"
+}
